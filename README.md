@@ -1,0 +1,1 @@
+# MINDX-LESSION-7
