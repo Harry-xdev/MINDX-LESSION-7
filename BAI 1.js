@@ -1,6 +1,3 @@
-document.write("1/ Square root of a integer")
 let a = prompt("Square root of:")
-document.write("Square root of:",a)
 let b = Math.sqrt(a)
-document.write("Result:", b)
-document.write("--------")
+document.write("1/ Square root of a integer", b)
